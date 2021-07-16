@@ -1,0 +1,11 @@
+﻿  C_MineSweeper.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wincontypes.h(103,1): warning C4005: 'MOUSE_MOVED': マクロが再定義されました。
+C:\Users\hina5\source\repos\C_MineSweeper\PDCursesLib\include\curses.h(189): message : 'MOUSE_MOVED' の以前の定義を確認してください
+C:\Users\hina5\source\repos\C_MineSweeper\C_MineSweeper\C_MineSweeper.cpp(164,23): warning C4244: '初期化中': 'time_t' から 'int' への変換です。データが失われる可能性があります。
+  ms_box_open.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wincontypes.h(103,1): warning C4005: 'MOUSE_MOVED': マクロが再定義されました。
+C:\Users\hina5\source\repos\C_MineSweeper\PDCursesLib\include\curses.h(189): message : 'MOUSE_MOVED' の以前の定義を確認してください
+  コードを生成中...
+C:\Users\hina5\source\repos\C_MineSweeper\C_MineSweeper\C_MineSweeper.cpp(246): warning C4715: 'key_check': 値を返さないコントロール パスがあります。
+LINK : warning LNK4098: defaultlib 'LIBCMT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+  C_MineSweeper.vcxproj -> C:\Users\hina5\source\repos\C_MineSweeper\Debug\C_MineSweeper.exe
